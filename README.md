@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Thiago!
 
-  <img src="https://www.gifcen.com/wp-content/uploads/2024/05/son-goku-gif-7.gif" alt="Son Goku" width="600"  />
+  <img src="https://i.pinimg.com/originals/9b/2c/6e/9b2c6ee35bbf923517b02812036c4045.gif" alt="Son Goku" width="600"  />
 
 
 
