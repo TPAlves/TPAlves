@@ -67,7 +67,7 @@ Sou desenvolvedor Full Stack, apaixonado por tecnologia, games e cultura nerd. B
 
 ## 📫 Entre em contato
 
-- [LinkedIn](https://www.linkedin.com/in/thiagopereiraalves/)
+- [LinkedIn](https://www.linkedin.com/in/thiago-pereira-alves-a5a589219/)
 
 ---
 
