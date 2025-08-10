@@ -18,6 +18,10 @@ Sou desenvolvedor Full Stack, apaixonado por tecnologia, games e cultura nerd. B
   <a href="https://www.credly.com/badges/bb9ac4a4-5469-4c70-8db6-90fc7c7641f0/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Badge" width="100" style="vertical-align:middle; margin-right:12px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=766D256EA1C3FCE6AEBB5331E133A9C54832F208C9E8A409C4559F37EBEF9147" target="_blank">
+    <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="100" style="vertical-align:middle; margin-right:12px;"/>
+  </a>
 </div>
 
 <br>
