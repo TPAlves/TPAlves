@@ -22,6 +22,10 @@ Sou desenvolvedor Full Stack, apaixonado por tecnologia, games e cultura nerd. B
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=766D256EA1C3FCE6AEBB5331E133A9C54832F208C9E8A409C4559F37EBEF9147" target="_blank">
     <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="100" style="vertical-align:middle; margin-right:12px;"/>
   </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/ThiagoPereiraAlves/ECE859F3C7B76284?sharingId=5AB4D3981DD32B6D" target="_blank">
+    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/github-actions.svg?branch=main" alt="GitHub Actions" width="100" style="vertical-align:middle; margin-right:12px;"/>
+  </a>
 </div>
 
 <br>
